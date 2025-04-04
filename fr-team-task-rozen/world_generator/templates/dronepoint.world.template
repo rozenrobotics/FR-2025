@@ -1,0 +1,5 @@
+    <include>
+      <name>$NAME</name>
+      <uri>model://$MODEL</uri>
+      <pose>$X $Y 0 0 0 0</pose>
+    </include>
